@@ -1,1 +1,1 @@
-Directory with homework ipynb files.
+Directory for homework 1 files
